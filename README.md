@@ -1,5 +1,6 @@
 # IMDb-Ratings-Report
 <img width="960" height="540" alt="IMDb Ratings Report" src="https://github.com/user-attachments/assets/df0a095b-3f50-41d8-a07a-7c1e86b02165" />
+
 ---
 
 📌 Project Overview
